@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Second-year student studying Computer Science at NYU
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Right now, I am very interested in web development, in particular backend development. Additionally, I would love to delve deeper into Artificial Intelligence. 
+
+In my free time, I am a member of the Rowing team at NYU and I enjoy playing volleyball. I enjoy watching Netflix and playing video games.
 
