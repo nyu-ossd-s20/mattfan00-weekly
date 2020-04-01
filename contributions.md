@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 | Feb 27 | [Wikipedia](https://en.wikipedia.org/w/index.php?title=The_1975&diff=prev&oldid=942923278) | Wikipedia edit | Added description of MindShowerAI on The 1975 wiki page
 | Mar 20 | [OpenStreet Map](https://www.openstreetmap.org/changeset/82451069) | OpenStreet Map feature | Added some restaurants around NYU
 | Mar 30 | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Notes_on_a_Conditional_Form&diff=prev&oldid=948192238) | Wikipedia edit | Added new single
+| Apr 1 | [Github](https://github.com/microsoft/vscode/issues/94194) | Github issue | Added an issue to the VSCode github page
