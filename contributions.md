@@ -29,3 +29,4 @@ Replace the first row with your own contribution.
 | Mar 20 | [OpenStreet Map](https://www.openstreetmap.org/changeset/82451069) | OpenStreet Map feature | Added some restaurants around NYU
 | Mar 30 | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Notes_on_a_Conditional_Form&diff=prev&oldid=948192238) | Wikipedia edit | Added new single
 | Apr 1 | [Github](https://github.com/microsoft/vscode/issues/94194) | Github issue | Added an issue to the VSCode github page
+| Apr 21 | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Gimme_Love_(Joji_song)&diff=prev&oldid=952226396) | Wikipedia edit | Added a new page for Joji's new single, Gimme Love
